@@ -41,7 +41,7 @@ Follow these steps to run the project locally on your machine.
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/your-username/movie-recommender-system.git](https://github.com/Divyanshu10045/movie-recommender-system-.git)
+git clone [https://github.com/Divyanshu10045/movie-recommender-system-.git](https://github.com/Divyanshu10045/movie-recommender-system-.git)
 cd movie-recommender-system
 ```
 
